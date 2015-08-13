@@ -1,0 +1,5 @@
+<!-- File: src/Templates/Users/index.ctp -->
+<h3>User List</h3>
+<div class="users">
+    <table>
+        <thead>
